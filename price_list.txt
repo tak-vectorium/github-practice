@@ -1,0 +1,3 @@
+product-001 : 100
+product-002 : 500
+product-003 : 900
