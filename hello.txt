@@ -1,4 +1,4 @@
-git status—p‚É“à—e‚ð’Ç‰Á‚µ‚Ü‚µ‚½B
-git status—p‚ÉƒVƒ‡[ƒgƒRƒ}ƒ“ƒh‚ð’Ç‰Á‚µ‚Ü‚µ‚½B
+git statusç”¨ã«å†…å®¹ã‚’è¿½åŠ ã—ã¾ã—ãŸã€‚
+git statusç”¨ã«ã‚·ãƒ§ãƒ¼ãƒˆã‚³ãƒžãƒ³ãƒ‰ã‚’è¿½åŠ ã—ã¾ã—ãŸã€‚
 
-ƒRƒ“ƒtƒŠƒNƒg‚ª”­¶‚·‚é‚Æ‚¨‚»‚ë‚µ‚¢
+ã‚³ãƒ³ãƒ•ãƒªã‚¯ãƒˆãŒç™ºç”Ÿã—ã¦ã‚‚ã“ã‚ããªã„ã‚ˆ
